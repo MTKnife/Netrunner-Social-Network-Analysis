@@ -22,3 +22,5 @@ Finally, I read the graph data into Gephi (http://gephi.github.io/), and used th
 In the graphics, the more often a card shows up, the bigger its circle is in the graph.  Colors represent card factions (since decks can draw from multiple factions), with native Jinteki cards as red.  "JintekiMid.png" displays decks using both of the "Identities" available at the time, "Personal Evolution" and "Replicating Perfection" (each deck has one and only one identity).  The other files display either the Personal Evolution or Replicating Perfection decks.  You'll notice "Mid" and "New" Gephi files--the latter were created with additional decks downloaded after the initial ones.
 
 Since the decks were downloaded in early 2013, the database here is hopeless outdated, and you really wouldn't want to update it by hand.  However, you could use the web-scraping scripts in the second repo to compile a more recent database of decks, and modify the scripts in this repo to analyze them.
+
+Anyone who'd like to fork this and/or my second project is welcome to, but please drop me a note and let me know what you've done!
