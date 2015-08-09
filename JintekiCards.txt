@@ -1,0 +1,84 @@
+ID,Label,Faction,Decks
+1,Jinteki: Personal Evolution,Jinteki,130
+2,Priority Requisition,Neutral,119
+3,Private Security Force,Neutral,128
+4,Nisei MK II,Jinteki,195
+5,Security Subcontract,The Weyland Consortium,11
+6,Melange Mining Corp,Neutral,134
+7,PAD Campaign,Neutral,148
+8,Project Junebug,Jinteki,175
+9,Snare!,Jinteki,174
+10,Ice Wall,The Weyland Consortium,65
+11,Rototurret,Haas-Bioroid,37
+12,Viktor 1.0,Haas-Bioroid,24
+13,Wall of Thorns,Jinteki,164
+14,Chum,Jinteki,168
+15,Wall of Static,Neutral,138
+16,Enigma,Neutral,133
+17,Neural Katana,Jinteki,187
+18,Beanstalk Royalties,The Weyland Consortium,52
+19,Precognition,Jinteki,101
+20,Akitaro Watanabe,Jinteki,114
+21,Zaibatsu Loyalty,Jinteki,98
+22,Ghost Branch,NBN,13
+23,Hunter,Neutral,33
+24,Data Mine,Jinteki,95
+25,Cell Portal,Jinteki,46
+26,Data Raven,NBN,27
+27,Scorched Earth,The Weyland Consortium,26
+28,Shipment from Kaguya,The Weyland Consortium,38
+29,Hedge Fund,Neutral,180
+30,Neural EMP,Jinteki,75
+31,Adonis Campaign,Haas-Bioroid,53
+32,Closed Accounts,NBN,14
+33,Ichi 1.0,Haas-Bioroid,60
+34,Aggressive Negotiation,The Weyland Consortium,4
+35,Research Station,The Weyland Consortium,3
+36,Aggressive Secretary,Haas-Bioroid,48
+37,Matrix Analyzer,NBN,35
+38,Shipment from Mirrormorph,Haas-Bioroid,11
+39,Red Herrings,NBN,37
+40,Heimdall 1.0,Haas-Bioroid,12
+41,Experiential Data,Haas-Bioroid,14
+42,Corporate Troubleshooter,Haas-Bioroid,19
+43,Anonymous Tip,NBN,6
+44,Archived Memories,Haas-Bioroid,11
+45,SanSan City Grid,NBN,3
+46,SEA Source,NBN,4
+47,Tollbooth,NBN,48
+48,Archer,The Weyland Consortium,15
+49,Shadow,The Weyland Consortium,19
+50,Braintrust,Jinteki,128
+51,Snowflake,Jinteki,64
+52,Caduceus,The Weyland Consortium,12
+53,Draco,Neutral,22
+54,Fetal AI,Jinteki,136
+55,Executive Retreat,Neutral,27
+56,Sensei,Jinteki,67
+57,Trick of Light,Jinteki,107
+58,Jinteki: Replicating Perfection,Jinteki,72
+59,Encryption Protocol,Haas-Bioroid,10
+60,Freelancer,Neutral,3
+61,ChiLo City Grid,NBN,1
+62,Janus 1.0,Haas-Bioroid,10
+63,Hadrian's Wall,The Weyland Consortium,5
+64,Amazon Industrial Zone,The Weyland Consortium,3
+65,Ash 2X3ZB9CY,Haas-Bioroid,4
+66,TMI,NBN,1
+67,Sherlock 1.0,Haas-Bioroid,2
+68,Private Contracts,Neutral,31
+69,Edge of World,Jinteki,32
+70,Chimera,Neutral,38
+71,Sunset,Jinteki,22
+72,Pop-up Window,NBN,18
+73,Marked Accounts,NBN,8
+74,Psychographics,NBN,1
+75,Woodcutter,The Weyland Consortium,3
+76,Viper,Haas-Bioroid,6
+77,False Lead,Neutral,12
+78,Dedicated Server,Jinteki,16
+79,Oversight AI,The Weyland Consortium,1
+80,Hourglass,Haas-Bioroid,6
+81,Uroboros,NBN,2
+82,Bullfrog,Jinteki,5
+83,Green Level Clearance,Haas-Bioroid,4

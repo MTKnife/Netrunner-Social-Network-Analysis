@@ -1,0 +1,105 @@
+"CardName","Faction","NoInfluence"
+"Haas-Bioroid: Engineering the Future","Haas-Bioroid",FALSE
+"Haas-Bioroid: Stronger Together","Haas-Bioroid",FALSE
+"Accelerated Beta Test","Haas-Bioroid",TRUE
+"Mandatory Upgrades","Haas-Bioroid",TRUE
+"Project Vitruvius","Haas-Bioroid",TRUE
+"Adonis Campaign","Haas-Bioroid",FALSE
+"Aggressive Secretary","Haas-Bioroid",FALSE
+"Encryption Protocol","Haas-Bioroid",FALSE
+"Heimdall 1.0","Haas-Bioroid",FALSE
+"Hourglass","Haas-Bioroid",FALSE
+"Ichi 1.0","Haas-Bioroid",FALSE
+"Janus 1.0","Haas-Bioroid",FALSE
+"Rototurret","Haas-Bioroid",FALSE
+"Sherlock 1.0","Haas-Bioroid",FALSE
+"Viktor 1.0","Haas-Bioroid",FALSE
+"Viper","Haas-Bioroid",FALSE
+"Archived Memories","Haas-Bioroid",FALSE
+"Biotic Labor","Haas-Bioroid",FALSE
+"Green Level Clearance","Haas-Bioroid",FALSE
+"Shipment from Mirrormorph","Haas-Bioroid",FALSE
+"Ash 2X3ZB9CY","Haas-Bioroid",FALSE
+"Corporate Troubleshooter","Haas-Bioroid",FALSE
+"Experiential Data","Haas-Bioroid",FALSE
+"Jinteki: Personal Evolution","Jinteki",FALSE
+"Jinteki: Replicating Perfection","Jinteki",FALSE
+"Braintrust","Jinteki",TRUE
+"Fetal AI","Jinteki",TRUE
+"Nisei MK II","Jinteki",TRUE
+"Dedicated Server","Jinteki",FALSE
+"Edge of World","Jinteki",FALSE
+"Project Junebug","Jinteki",FALSE
+"Snare!","Jinteki",FALSE
+"Zaibatsu Loyalty","Jinteki",FALSE
+"Bullfrog","Jinteki",FALSE
+"Cell Portal","Jinteki",FALSE
+"Chum","Jinteki",FALSE
+"Data Mine","Jinteki",FALSE
+"Neural Katana","Jinteki",FALSE
+"Sensei","Jinteki",FALSE
+"Snowflake","Jinteki",FALSE
+"Wall of Thorns","Jinteki",FALSE
+"Neural EMP","Jinteki",FALSE
+"Precognition","Jinteki",FALSE
+"Sunset","Jinteki",FALSE
+"Trick of Light","Jinteki",FALSE
+"Akitaro Watanabe","Jinteki",FALSE
+"NBN: Making News","NBN",FALSE
+"AstroScript Pilot Program","NBN",TRUE
+"Breaking News","NBN",TRUE
+"Restructured Datapool","NBN",TRUE
+"Ghost Branch","NBN",FALSE
+"Marked Accounts","NBN",FALSE
+"Net Police","NBN",FALSE
+"Data Raven","NBN",FALSE
+"Matrix Analyzer","NBN",FALSE
+"Pop-up Window","NBN",FALSE
+"TMI","NBN",FALSE
+"Tollbooth","NBN",FALSE
+"Uroboros","NBN",FALSE
+"Anonymous Tip","NBN",FALSE
+"Big Brother","NBN",FALSE
+"Closed Accounts","NBN",FALSE
+"Psychographics","NBN",FALSE
+"SEA Source","NBN",FALSE
+"ChiLo City Grid","NBN",FALSE
+"Red Herrings","NBN",FALSE
+"SanSan City Grid","NBN",FALSE
+"Weyland Consortium: Because We Built It","The Weyland Consortium",FALSE
+"Weyland Consortium: Building a Better World","The Weyland Consortium",FALSE
+"Government Contracts","The Weyland Consortium",TRUE
+"Hostile Takeover","The Weyland Consortium",TRUE
+"Posted Bounty","The Weyland Consortium",TRUE
+"Project Atlas","The Weyland Consortium",TRUE
+"Security Subcontract","The Weyland Consortium",FALSE
+"Archer","The Weyland Consortium",FALSE
+"Caduceus","The Weyland Consortium",FALSE
+"Hadrian's Wall","The Weyland Consortium",FALSE
+"Ice Wall","The Weyland Consortium",FALSE
+"Shadow","The Weyland Consortium",FALSE
+"Tyrant","The Weyland Consortium",FALSE
+"Woodcutter","The Weyland Consortium",FALSE
+"Aggressive Negotiation","The Weyland Consortium",FALSE
+"Beanstalk Royalties","The Weyland Consortium",FALSE
+"Commercialization","The Weyland Consortium",FALSE
+"Oversight AI","The Weyland Consortium",FALSE
+"Power Grid Overload","The Weyland Consortium",FALSE
+"Scorched Earth","The Weyland Consortium",FALSE
+"Shipment from Kaguya","The Weyland Consortium",FALSE
+"Amazon Industrial Zone","The Weyland Consortium",FALSE
+"Research Station","The Weyland Consortium",FALSE
+"Executive Retreat","Neutral",FALSE
+"False Lead","Neutral",FALSE
+"Priority Requisition","Neutral",FALSE
+"Private Security Force","Neutral",FALSE
+"Melange Mining Corp","Neutral",FALSE
+"PAD Campaign","Neutral",FALSE
+"Private Contracts","Neutral",FALSE
+"Chimera","Neutral",FALSE
+"Draco","Neutral",FALSE
+"Enigma","Neutral",FALSE
+"Hunter","Neutral",FALSE
+"Wall of Static","Neutral",FALSE
+"Freelancer","Neutral",FALSE
+"Hedge Fund","Neutral",FALSE

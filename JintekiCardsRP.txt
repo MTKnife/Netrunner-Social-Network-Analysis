@@ -1,0 +1,75 @@
+ID,Label,Faction,Decks
+1,Jinteki: Replicating Perfection,Jinteki,42
+2,Fetal AI,Jinteki,38
+3,Nisei MK II,Jinteki,40
+4,Braintrust,Jinteki,36
+5,Priority Requisition,Neutral,19
+6,Adonis Campaign,Haas-Bioroid,8
+7,PAD Campaign,Neutral,34
+8,Zaibatsu Loyalty,Jinteki,20
+9,Project Junebug,Jinteki,30
+10,Chum,Jinteki,34
+11,Enigma,Neutral,22
+12,Neural Katana,Jinteki,37
+13,Sensei,Jinteki,19
+14,Wall of Static,Neutral,28
+15,Hadrian's Wall,The Weyland Consortium,2
+16,Shipment from Kaguya,The Weyland Consortium,8
+17,Hedge Fund,Neutral,37
+18,Neural EMP,Jinteki,10
+19,Precognition,Jinteki,17
+20,Sunset,Jinteki,12
+21,Trick of Light,Jinteki,26
+22,Beanstalk Royalties,The Weyland Consortium,9
+23,Akitaro Watanabe,Jinteki,20
+24,Edge of World,Jinteki,14
+25,Private Contracts,Neutral,16
+26,Snare!,Jinteki,30
+27,Ghost Branch,NBN,3
+28,Data Raven,NBN,3
+29,Data Mine,Jinteki,12
+30,Snowflake,Jinteki,16
+31,Hunter,Neutral,6
+32,Wall of Thorns,Jinteki,26
+33,Closed Accounts,NBN,4
+34,Scorched Earth,The Weyland Consortium,2
+35,Red Herrings,NBN,7
+36,Private Security Force,Neutral,14
+37,Aggressive Secretary,Haas-Bioroid,16
+38,Chimera,Neutral,16
+39,Ichi 1.0,Haas-Bioroid,15
+40,Ice Wall,The Weyland Consortium,12
+41,Tollbooth,NBN,8
+42,Cell Portal,Jinteki,9
+43,Shadow,The Weyland Consortium,5
+44,Melange Mining Corp,Neutral,26
+45,Rototurret,Haas-Bioroid,7
+46,Viktor 1.0,Haas-Bioroid,2
+47,Executive Retreat,Neutral,6
+48,Matrix Analyzer,NBN,8
+49,Freelancer,Neutral,1
+50,Heimdall 1.0,Haas-Bioroid,1
+51,Archived Memories,Haas-Bioroid,3
+52,Shipment from Mirrormorph,Haas-Bioroid,5
+53,Caduceus,The Weyland Consortium,3
+54,Pop-up Window,NBN,6
+55,Draco,Neutral,6
+56,SanSan City Grid,NBN,1
+57,Marked Accounts,NBN,4
+58,Viper,Haas-Bioroid,6
+59,Experiential Data,Haas-Bioroid,4
+60,Corporate Troubleshooter,Haas-Bioroid,2
+61,Dedicated Server,Jinteki,10
+62,Amazon Industrial Zone,The Weyland Consortium,1
+63,Sherlock 1.0,Haas-Bioroid,1
+64,False Lead,Neutral,9
+65,Janus 1.0,Haas-Bioroid,3
+66,Oversight AI,The Weyland Consortium,1
+67,Hourglass,Haas-Bioroid,6
+68,Uroboros,NBN,2
+69,Bullfrog,Jinteki,4
+70,Aggressive Negotiation,The Weyland Consortium,1
+71,Encryption Protocol,Haas-Bioroid,2
+72,Archer,The Weyland Consortium,2
+73,Green Level Clearance,Haas-Bioroid,1
+74,Security Subcontract,The Weyland Consortium,1

@@ -1,0 +1,45 @@
+Deck Created with CardGameDB.com Android: Netrunner Deck Builder
+http://www.cardgamedb.com/index.php/netrunner/android-netrunner-deck-builder
+
+Identity:
+Jinteki: Replicating Perfection (Trace Amount) 
+
+
+Total Cards: (47)
+Agenda (10)
+Braintrust (What Lies Ahead #14) x3 
+Fetal AI (Trace Amount #32) x3 
+Nisei MK II (Core #68) x3 
+Private Security Force (Core #107) x1 
+
+Asset (11)
+Project Junebug (Core #69) x3 
+Snare! (Core #70) x3 
+Melange Mining Corp (Core #108) x2 
+Aggressive Secretary (Core #57) x2 ■■
+Adonis Campaign (Core #56) x1 ■■
+
+ICE (17)
+Chum (Core #75) x2 
+Sensei (Trace Amount #34) x3 
+Snowflake (What Lies Ahead #15) x3 
+Tollbooth (Core #90) x3 ■■
+Draco (What Lies Ahead #20) x3 
+Wall of Thorns (Core #78) x3 
+
+Operation (5)
+Precognition (Core #73) x2 
+Trick of Light (Trace Amount #33) x3 
+
+Upgrade (4)
+Akitaro Watanabe (Core #79) x1 
+Amazon Industrial Zone (Trace Amount #38) x3 ■
+
+
+Total Agenda Points: 20
+
+Influence Values Totals - 
+ Haas-Bioroid: 6 
+ Jinteki: 40
+ NBN: 6
+ The Weyland Consortium: 3

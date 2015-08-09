@@ -1,0 +1,44 @@
+Deck Created with CardGameDB.com Android: Netrunner Deck Builder
+http://www.cardgamedb.com/index.php/netrunner/android-netrunner-deck-builder
+
+Identity:
+Jinteki: Personal Evolution (Core) 
+
+
+Total Cards: (49)
+Agenda (9)
+Fetal AI (Trace Amount #32) x3 
+Nisei MK II (Core #68) x3 
+Priority Requisition (Core #106) x3 
+
+Asset (12)
+Adonis Campaign (Core #56) x3 ■■
+PAD Campaign (Core #109) x3 
+Project Junebug (Core #69) x3 
+Snare! (Core #70) x3 
+
+ICE (19)
+Caduceus (What Lies Ahead #19) x3 ■■
+Data Mine (Core #76) x2 
+Neural Katana (Core #77) x3 
+Sensei (Trace Amount #34) x2 
+Snowflake (What Lies Ahead #15) x3 
+Wall of Static (Core #113) x3 
+Wall of Thorns (Core #78) x3 
+
+Operation (8)
+Beanstalk Royalties (Core #98) x3 ■
+Precognition (Core #73) x2 
+Trick of Light (Trace Amount #33) x3 
+
+Upgrade (1)
+Akitaro Watanabe (Core #79) x1 
+
+
+Total Agenda Points: 21
+
+Influence Values Totals - 
+ Haas-Bioroid: 6 
+ Jinteki: 47
+ NBN: 0
+ The Weyland Consortium: 9

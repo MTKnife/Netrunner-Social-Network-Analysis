@@ -1,0 +1,73 @@
+ID,Label,Faction,Decks
+1,Jinteki: Personal Evolution,Jinteki,51
+2,Braintrust,Jinteki,40
+3,Nisei MK II,Jinteki,50
+4,Fetal AI,Jinteki,48
+5,Priority Requisition,Neutral,18
+6,Edge of World,Jinteki,17
+7,Project Junebug,Jinteki,47
+8,Snare!,Jinteki,46
+9,Zaibatsu Loyalty,Jinteki,19
+10,PAD Campaign,Neutral,35
+11,Private Contracts,Neutral,14
+12,Aggressive Secretary,Haas-Bioroid,13
+13,Ghost Branch,NBN,2
+14,Wall of Thorns,Jinteki,41
+15,Cell Portal,Jinteki,8
+16,Sensei,Jinteki,23
+17,Neural Katana,Jinteki,45
+18,Caduceus,The Weyland Consortium,3
+19,Janus 1.0,Haas-Bioroid,4
+20,Heimdall 1.0,Haas-Bioroid,3
+21,Wall of Static,Neutral,30
+22,Hedge Fund,Neutral,44
+23,Trick of Light,Jinteki,35
+24,Private Security Force,Neutral,31
+25,Adonis Campaign,Haas-Bioroid,10
+26,Melange Mining Corp,Neutral,28
+27,Chimera,Neutral,21
+28,Chum,Jinteki,36
+29,Data Mine,Jinteki,31
+30,Ichi 1.0,Haas-Bioroid,10
+31,Archer,The Weyland Consortium,6
+32,Sunset,Jinteki,9
+33,Akitaro Watanabe,Jinteki,22
+34,Executive Retreat,Neutral,9
+35,Enigma,Neutral,30
+36,Hunter,Neutral,9
+37,Data Raven,NBN,9
+38,Viktor 1.0,Haas-Bioroid,4
+39,Neural EMP,Jinteki,24
+40,Scorched Earth,The Weyland Consortium,9
+41,Beanstalk Royalties,The Weyland Consortium,11
+42,Snowflake,Jinteki,19
+43,Corporate Troubleshooter,Haas-Bioroid,3
+44,Precognition,Jinteki,18
+45,Pop-up Window,NBN,12
+46,Shadow,The Weyland Consortium,4
+47,Red Herrings,NBN,13
+48,Rototurret,Haas-Bioroid,3
+49,Ice Wall,The Weyland Consortium,13
+50,Tollbooth,NBN,8
+51,Closed Accounts,NBN,4
+52,Matrix Analyzer,NBN,8
+53,Draco,Neutral,6
+54,Shipment from Kaguya,The Weyland Consortium,10
+55,Shipment from Mirrormorph,Haas-Bioroid,2
+56,Encryption Protocol,Haas-Bioroid,2
+57,Anonymous Tip,NBN,2
+58,Experiential Data,Haas-Bioroid,1
+59,Aggressive Negotiation,The Weyland Consortium,1
+60,Ash 2X3ZB9CY,Haas-Bioroid,2
+61,Marked Accounts,NBN,4
+62,Archived Memories,Haas-Bioroid,3
+63,Psychographics,NBN,1
+64,Freelancer,Neutral,1
+65,Security Subcontract,The Weyland Consortium,3
+66,Woodcutter,The Weyland Consortium,3
+67,False Lead,Neutral,3
+68,Dedicated Server,Jinteki,6
+69,SEA Source,NBN,1
+70,Bullfrog,Jinteki,1
+71,Hadrian's Wall,The Weyland Consortium,1
+72,Green Level Clearance,Haas-Bioroid,3
