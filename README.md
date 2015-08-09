@@ -11,7 +11,7 @@ For the course's final project, I decided to look at decks in the game Netrunner
 
 Let me say, up front, that there were easier ways to download decks and compile card lists.  I later mended my ways and implemented those easier approaches in a second version of the project, stored in its own repo, https://github.com/MTKnife/Netrunner-Social-Network-Analysis-2 (but, alas, never finished).
 
-First, I had to get a hold of as many decks as possible.  I located the most popular repository of decks created by players, on CardGameDB (http://www.cardgamedb.com/index.php/netrunner/android-netrunner-submitted-decks).  To keep things simple, I limited myself to one Corp faction, Jinteki, and then, not knowing anything about web-scraping, I manually downloaded all the decks that had been uploaded for that faction.  There are directories for the other corp factions, but I never downloaded any of those decks (at least, not until the second version of the project).
+First, I had to get a hold of as many decks as possible.  I located the most popular repository of decks created by players, on CardGameDB (http://www.cardgamedb.com/index.php/netrunner/android-netrunner-submitted-decks).  To keep things simple, I limited myself to one Corp faction, Jinteki, and then, not knowing anything about web-scraping, I manually downloaded all the decks that had been uploaded for that faction.
 
 I then wrote a script, MakeCorpMasterList.R, that used those decks (and a bit of other information) to compose a list of all the cards used in any of the decks.
 
