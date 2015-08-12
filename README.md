@@ -1,13 +1,13 @@
-# Netrunner-Social-Network-Analysis
+## Netrunner-Social-Network-Analysis
 A class project to show which cards tends to be used together in Netrunner decks
 
-My coding at work (all Python at the moment) is entirely proprietary, and therefore I can't display it here.
+# What Is This About?
 
-Some of my hobbies are quite technical (lately, for instance, I've been learning Blender), but I prefer not to bring my work home with me.
+My coding at work (all Python at the moment) is entirely proprietary, and therefore I can't display it here.  Some of my hobbies are quite technical (lately, for instance, I've been learning Blender), but I prefer not to bring my work home with me.  The upshot is that I don't do a lot of data science coding that I can put up on GitHub.  Therefore, I've decided to put up this project I created for a class, Coursera's Social Network Analysis (https://www.coursera.org/course/sna), which is where I first learned R.
 
-The upshot is that I don't do a lot of data science coding that I can put up on GitHub.  Therefore, I've decided to put up this project I created for a class, Coursera's Social Network Analysis (https://www.coursera.org/course/sna), which is where I first learned R.
+For the course's final project, I decided to look at decks in the game Netrunner (https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/), a game in which two opponents, the "Corp" and the "Runner", build decks from a variety of available cards, and then pit them against one another.  The goal of the proejct was to see which cards tended to be used together, somewhat which might lend insights into deck-building strategy and players; psychology.  (For the sake of full disclosure, I need to admit that, despite some trying, I never managed actually to win a game of Netrunner, though normally I'm pretty good at games.)
 
-For the course's final project, I decided to look at decks in the game Netrunner (https://www.fantasyflightgames.com/en/products /android-netrunner-the-card-game/), a game in which two opponents, the "Corp" and the "Runner", build decks from a variety of available cards, and then pit them against one another.  The goal of the proejct was to see which cards tended to be used together, somewhat which might lend insights into deck-building strategy and players; psychology.  (For the sake of full disclosure, I need to admit that, despite some trying, I never managed actually to win a game of Netrunner, though normally I'm pretty good at games.)
+# The Details
 
 Let me say, up front, that there were easier ways to download decks and compile card lists.  I later mended my ways and implemented those easier approaches in a second version of the project, stored in its own repo, https://github.com/MTKnife/Netrunner-Social-Network-Analysis-2 (but, alas, never finished).
 
