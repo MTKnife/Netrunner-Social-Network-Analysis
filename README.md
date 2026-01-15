@@ -1,5 +1,5 @@
 ## Netrunner-Social-Network-Analysis
-*A class project to show which cards tends to be used together in Netrunner decks*
+*A class project to show which cards tend to be used together in Netrunner decks*
 
 # What Is This About?
 
